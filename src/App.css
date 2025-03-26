@@ -1,0 +1,22 @@
+.Container{
+  display:flex;
+  flex-direction: row;
+  gap:5rem;
+  justify-content: center;
+  /* margin:20px; */
+  margin-top: 10rem;
+  
+}
+h1{
+  text-align: center;
+}
+.card{
+  border:5px solid palegoldenrod;
+  text-align: center;
+  border-radius: 20px;;
+  padding:2rem;
+}
+*{
+  background: #0e0f0e;
+  color:aliceblue
+}
